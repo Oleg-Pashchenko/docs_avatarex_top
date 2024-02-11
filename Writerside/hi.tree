@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Avatarex Docs"
+                 start-page="Как-связать-ваш-Bitrix-с-Avatarex.md">
+    <toc-element topic="Как-связать-ваш-Bitrix-с-Avatarex.md"/>
+    <toc-element topic="Как-настроить-бота-в-Bitrix-на-примере-Telegram.md"/>
+
+</instance-profile>
