@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   web:
-    build: .
+    build: Writerside
     ports:
       - "5001:5001"
     volumes:

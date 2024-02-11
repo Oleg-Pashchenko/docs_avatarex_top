@@ -8,7 +8,7 @@ WORKDIR /usr/src/app
 RUN npm install -g http-server
 
 # Copy the local files to the container
-COPY . .
+COPY Writerside .
 
 # Expose the port the app runs on
 EXPOSE 5001
